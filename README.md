@@ -39,7 +39,7 @@
             document.write('account.balance: ' + account.balance + '<br>');
             account.deposit(5000);
             document.write('account.balance(5000 저금): ' + account.balance + '<br>');
-                        account.withdraw(14000);
+            account.withdraw(14000);
             document.write('account.balance(14000 인출): ' + account.balance + '<br>');
         }
     </script>
@@ -68,7 +68,7 @@
             document.write('account.balance: ' + account.balance + '<br>');
             account.deposit(5000);
             document.write('account.balance(5000 저금): ' + account.balance + '<br>');
-                        account.withdraw(14000);
+            account.withdraw(14000);
             document.write('account.balance(14000 인출): ' + account.balance + '<br>');
         }    
     </script>
